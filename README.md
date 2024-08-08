@@ -1,6 +1,6 @@
 ** The Main Objective of this project is to analyze retail sales data to gain actionable insights that wiil enhance
    the performance of Coffee shop.
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >> Steps Taken  :---
  * Data Acquisition: Imported the sales dataset from an Excel file into Power Query in Excel for transformation.
  * Data Transformation--
@@ -9,7 +9,7 @@
        3. Extracted Month,Month Name, Day Name,Day and Hour: Derived these values from the transaction date and transaction time to enable time-based analysis. 
        3. Created Measures in Excel: Defined measures such as Total Sales, Average Sales per Transaction, Average bill per person, directly within Excel to summarize and analyze the data 
           efficiently.
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Data Visualization: Created various charts and graphs to represent the data visually
 
   1. Total Sales and Footfall : Displayed in the top summary section.
@@ -19,7 +19,7 @@
   5. Footfall and Sales Across Store Locations : A bar chart showing the performance of different store locations.
   6. Orders on Weekdays : A bar chart showing the distribution of orders across the days of the week.
  
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Insights
   
   >> Peak Sales Hours: The highest quantity of orders is observed during the morning hours (6 AM to 11 AM), which aligns with typical coffee shop rush hours.
@@ -28,7 +28,7 @@
   >> Product Category Distribution: Coffee and Tea account for the majority of sales, with a significant percentage coming from Bakery items.
   >> Weekday Sales Trend: Sales remain steady throughout the week, with a noticeable peak on Fridays, suggesting increased customer activity before the weekend.
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 

@@ -1,4 +1,4 @@
-## The Main Objective of this project is to analyze retail sales data to gain actionable insights that wiil enhance the performance of Coffee shop.
+## The Main Objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of Coffee shop.
    
    
    ## Steps Taken  :---

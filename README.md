@@ -2,7 +2,8 @@
    
    
    ## Steps Taken  :---
-  #Data Acquisition: Imported the sales dataset from an Excel file into Power Query in Excel for transformation.
+  #Data Acquisition: Imported the sales dataset from an Excel file into Power Query in Excel for transformation.  
+  
   #Data Transformation--  
   
        * Changed Data Types: Ensured that the transaction date, transaction time, and other relevant fields were converted to the correct data types for accurate analysis.  

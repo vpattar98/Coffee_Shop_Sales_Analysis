@@ -2,8 +2,8 @@
    
    
    ## Steps Taken  :---
- * Data Acquisition: Imported the sales dataset from an Excel file into Power Query in Excel for transformation.
- * Data Transformation--
+  #Data Acquisition: Imported the sales dataset from an Excel file into Power Query in Excel for transformation.
+  #Data Transformation--
        * Changed Data Types: Ensured that the transaction date, transaction time, and other relevant fields were converted to the correct data types for accurate analysis.
        * Created Columns: Added calculated columns such as total sales per transaction
        * Extracted Month,Month Name, Day Name,Day and Hour: Derived these values from the transaction date and transaction time to enable time-based analysis. 
@@ -11,7 +11,7 @@
           efficiently.
 
 
-## Data Visualization: Created various charts and graphs to represent the data visually
+#Data Visualization: Created various charts and graphs to represent the data visually
 
   1. Total Sales and Footfall : Displayed in the top summary section.
   2. Quantity Ordered Based on Hours : A line chart to show the distribution of orders throughout the day.

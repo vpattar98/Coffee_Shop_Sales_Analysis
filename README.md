@@ -1,6 +1,8 @@
 ** The Main Objective of this project is to analyze retail sales data to gain actionable insights that wiil enhance
    the performance of Coffee shop.
+   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 >> Steps Taken  :---
  * Data Acquisition: Imported the sales dataset from an Excel file into Power Query in Excel for transformation.
  * Data Transformation--
@@ -10,6 +12,7 @@
        3. Created Measures in Excel: Defined measures such as Total Sales, Average Sales per Transaction, Average bill per person, directly within Excel to summarize and analyze the data 
           efficiently.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 * Data Visualization: Created various charts and graphs to represent the data visually
 
   1. Total Sales and Footfall : Displayed in the top summary section.
@@ -20,6 +23,7 @@
   6. Orders on Weekdays : A bar chart showing the distribution of orders across the days of the week.
  
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 * Insights
   
   >> Peak Sales Hours: The highest quantity of orders is observed during the morning hours (6 AM to 11 AM), which aligns with typical coffee shop rush hours.

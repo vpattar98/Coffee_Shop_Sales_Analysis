@@ -3,10 +3,14 @@
    
    ## Steps Taken  :---
   #Data Acquisition: Imported the sales dataset from an Excel file into Power Query in Excel for transformation.
-  #Data Transformation--
-       * Changed Data Types: Ensured that the transaction date, transaction time, and other relevant fields were converted to the correct data types for accurate analysis.
-       * Created Columns: Added calculated columns such as total sales per transaction
-       * Extracted Month,Month Name, Day Name,Day and Hour: Derived these values from the transaction date and transaction time to enable time-based analysis. 
+  #Data Transformation--  
+  
+       * Changed Data Types: Ensured that the transaction date, transaction time, and other relevant fields were converted to the correct data types for accurate analysis.  
+       
+       * Created Columns: Added calculated columns such as total sales per transaction.  
+       
+       * Extracted Month,Month Name, Day Name,Day and Hour: Derived these values from the transaction date and transaction time to enable time-based analysis.  
+       
        * Created Measures in Excel: Defined measures such as Total Sales, Average Sales per Transaction, Average bill per person, directly within Excel to summarize and analyze the data 
           efficiently.
 
